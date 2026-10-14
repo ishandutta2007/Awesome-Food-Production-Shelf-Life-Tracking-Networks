@@ -1,7 +1,7 @@
 # 🥦 Awesome Food Production & Shelf-Life Tracking Networks 🚚
 
 <p align="center">
-  <img src="./assets/banner.svg" alt="Awesome Food Production &amp; Shelf-Life Tracking Networks Banner" width="100%" />
+  <img src="assets/banner.svg" alt="Awesome Food Production &amp; Shelf-Life Tracking Networks Banner" width="100%" />
 </p>
 
 <p align="center">

@@ -74,7 +74,7 @@ The sector is **moderately to highly fragmented** rather than a winner-take-all 
 
 *Open-source platforms, sensor firmware, and machine learning models sorted by GitHub Stargazers count (descending).*
 
-| Repository | GitHub Stars | License | Primary Stack | Key Highlights & Capabilities |
+| Repository | GitHub_Stars | License | Primary Stack | Key Highlights & Capabilities |
 |:---|:---:|:---:|:---|:---|
 | **[Kuzzle IoT Cold Chain](https://github.com/kuzzleio/kuzzle)** ❄️ | [![Stars](https://img.shields.io/github/stars/kuzzleio/kuzzle?style=social&color=white)](https://github.com/kuzzleio/kuzzle/stargazers) | Apache-2.0 | Node.js, TypeScript, Docker | Multi-sensor IoT backend purpose-built for cold-chain monitoring. Instant threshold alerting, HACCP compliance logs, EN 12830 compliance, and LoRaWAN/NB-IoT device management. |
 | **[Food Waste Management System](https://github.com/kishor-23/food-waste-management-system)** 🍲 | [![Stars](https://img.shields.io/github/stars/kishor-23/food-waste-management-system?style=social&color=white)](https://github.com/kishor-23/food-waste-management-system/stargazers) | Open-Source | PHP, MySQL, JavaScript | Community and institutional food redistribution platform tracking surplus inventory, expiration windows, and donor-to-charity logistics routing. |
@@ -146,7 +146,7 @@ If you find this repository valuable:
 2. 🌿 Create a descriptive branch: `git checkout -b add-new-tracking-platform`.
 3. 📝 Add your entry to the appropriate table or section following the established format:
    - For SaaS tools: include company scale/valuation, verified starting pricing, and specific trial/free tier limits.
-   - For Open-Source repos: include the repository link, star badge (`style=social&color=white`), license, and core stack.
+   - For Open-Source repos: include the repository link, Stars_Badge (`style=social&color=white`), license, and core stack.
 4. 🔗 Ensure all URLs resolve to official resources.
 5. 🚀 Submit a Pull Request with a clear summary of additions.
 
